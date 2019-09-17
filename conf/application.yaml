@@ -1,0 +1,4 @@
+test:
+  message: This is local evironment
+server:
+  port: 8888

@@ -1,0 +1,4 @@
+test:
+  message: This is dev evironment
+server:
+  port: 8888
